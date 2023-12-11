@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "python",
+            "name": "Python configuration",
+            "module": "streamlit",
+            "arguments": ["run", "dashboard/dashboard.py"],
+        },
+        
+    ]
+}
